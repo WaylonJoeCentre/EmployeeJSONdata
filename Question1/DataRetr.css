@@ -1,0 +1,21 @@
+body {
+    text-align: right;
+    }
+img{width: 100px}
+img{height: 100px}
+table {
+    border: 10px solid black;
+    padding: 14px;
+    margin: 5px;
+    text-align: right;
+    font-family: cursive;
+    background-color: skyblue;
+}
+td {
+    margin: 10px;
+    padding: 14px;
+}
+th {
+    margin: 10px;
+    padding: 14px;
+}
